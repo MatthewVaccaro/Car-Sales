@@ -16,8 +16,6 @@ const App = props => {
     // dipsatch an action here to add an item
   };
 
-  console.log(props.car.features);
-
   return (
     <div className="boxes">
       <div className="box">
